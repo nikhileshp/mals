@@ -10,8 +10,8 @@ setup(
         # environment
         "protobuf==3.20.0",
         "gym==0.21.0",
-        "torch==1.9.0",
-        "stable-baselines3[extra]==1.5.0",
+        "torch==2.0.0",
+        "stable-baselines3==1.5.0",
         # shielding
         "problog==2.2.4",
         "pysdd",
