@@ -29,6 +29,7 @@ conda create -n pls python=3.8
 pip install --upgrade setuptools==65.5.1
 pip install wheel==0.38.4
 pip install "pip<24.1"
+sudo apt install swig
 ```
 ```shell script
 pip install -e .
